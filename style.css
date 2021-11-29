@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+
+.container{margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 40%;
+    width: 35%;
+    border: 2px solid black;
+}
+.btn-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+button{
+    margin: 20px;
+    height: 40px;
+    width: 75px;
+}
+#text{margin: 10px;
+    height: 40px;
+    width: 90%;
+}
