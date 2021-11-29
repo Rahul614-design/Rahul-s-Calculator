@@ -14,7 +14,6 @@ h1{
     flex-wrap: wrap;
     height: 40%;
     width: 35%;
-    border: 2px solid black;
 }
 .btn-container{
     display: flex;
